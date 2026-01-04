@@ -1,4 +1,4 @@
-README 파일이란?
+[프로필 이미지](./a.pneg)
 
 # README 파일이란?
 
